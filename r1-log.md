@@ -43,3 +43,6 @@ create R1D3 tomorrow!
 to GitHub main ... so there is some hope.  I know the original intent of the challenge is to code for 1 hr a day ...
 while I have sepent several hrs the last couple of days getting my local setup, re-learning the basics of eclipse and
 making sure I can connect with https://github.com/calvertgames/100DaysOfCode - it's a start!
+
+5) Invite a contributor - cloned, created new branch, made a commit and put in a PR.
+Approved the PR and merge 
