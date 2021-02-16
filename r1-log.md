@@ -46,3 +46,8 @@ making sure I can connect with https://github.com/calvertgames/100DaysOfCode - i
 
 5) Invite a contributor - cloned, created new branch, made a commit and put in a PR.
 Approved the PR and merge 
+
+#R1D3
+D- day ... really didn't do much, but I'll give some credit for looking at Spring REST API tutorial (https://spring.io/guides/gs/rest-service/)
+and Spring Initializer (https://start.spring.io/)
+
